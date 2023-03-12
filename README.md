@@ -1,5 +1,5 @@
 # RA-resources
-This repository presents a selection of useful resources for Research Assistants working in economics and social sciences. 
+This repository presents a selection of useful resources for Research Assistants working in economics and social sciences. Most of these materials were discovered thanks to the #EconTwitter community. 
 
 - Code and Data for the Social Sciences: A Practitioner's Guide: https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml
 - Advanced Data Analytics in Economics: https://github.com/msu-econ-data-analytics/course-materials
