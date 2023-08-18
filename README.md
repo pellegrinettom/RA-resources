@@ -1,5 +1,5 @@
 # RA-resources
-This repository provides a collection of resources that can benefit Research Assistants working in economics and social sciences. Most of these materials were discovered through the #EconTwitter community.  The repository will be updated periodically to ensure that it remains a valuable resource for research assistants.
+This repository provides a collection of resources that can benefit Research Assistants working in economics and social sciences. Most of these materials were discovered through the #EconTwitter community.  The repository will be updated periodically.
 
 - Getting started with Python: https://www.youtube.com/watch?v=t8pPdKYpowI
 - Getting started with R: https://www.youtube.com/watch?v=yZ0bV2Afkjc
