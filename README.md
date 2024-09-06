@@ -10,6 +10,7 @@ This repository provides a collection of resources that can benefit Research Ass
 - Coding for Economists: https://aeturrell.github.io/coding-for-economists/intro.html
 - Advanced Data Analytics in Economics: https://github.com/msu-econ-data-analytics/course-materials
 - Data science for economists: https://github.com/uo-ec607/lectures
+- Coding for economists: https://static1.squarespace.com/static/5b67b79831d4dfab6ca1b892/t/60f20e8bfa3a010ccfc0c9d7/1626476171599/Ristovska_general-programming-guide-for-economists_2019.pdf
 - Building reproducible analytical pipelines with R: https://raps-with-r.dev
 - Remote Development using SSH in VS Code: https://code.visualstudio.com/docs/remote/ssh
 - Method to conduct (and automate) a literature review: https://mem.ai/p/MESDcvawiDHmQ4wagXc7
